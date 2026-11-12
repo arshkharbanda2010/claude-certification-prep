@@ -5,6 +5,8 @@ Self-made practice tooling for Anthropic's Claude certification exams, written b
 
 | Exam | Folder | Status |
 |---|---|---|
+| Claude Certified Architect – Foundations (CCAR-F) | [`architect-foundations/`](architect-foundations/) | Available |
+| Claude Certified Architect – Professional (CCAR-P) | [`architect-professional/`](architect-professional/) | Available |
 | Claude Certified Developer – Foundations (CCDV-F) | [`developer-foundations/`](developer-foundations/) | Available |
 
 ## Principles
